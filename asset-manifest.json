@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/personal-website-2.0/static/css/main.a161d655.css",
-    "main.js": "/personal-website-2.0/static/js/main.f8e5e82e.js",
+    "main.js": "/personal-website-2.0/static/js/main.b4ae4143.js",
     "static/js/453.195b869a.chunk.js": "/personal-website-2.0/static/js/453.195b869a.chunk.js",
     "static/media/carlo-badini.jpg": "/personal-website-2.0/static/media/carlo-badini.ed283eac0972102c50ed.jpg",
     "index.html": "/personal-website-2.0/index.html",
     "main.a161d655.css.map": "/personal-website-2.0/static/css/main.a161d655.css.map",
-    "main.f8e5e82e.js.map": "/personal-website-2.0/static/js/main.f8e5e82e.js.map",
+    "main.b4ae4143.js.map": "/personal-website-2.0/static/js/main.b4ae4143.js.map",
     "453.195b869a.chunk.js.map": "/personal-website-2.0/static/js/453.195b869a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a161d655.css",
-    "static/js/main.f8e5e82e.js"
+    "static/js/main.b4ae4143.js"
   ]
 }
