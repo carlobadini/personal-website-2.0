@@ -27,6 +27,10 @@ jobs:
       - name: Build
         run: npm run build
 
+      - name: Add 404.html for SPA redirect
+        run: |
+          echo '<!DOCTYPE html><html><head><meta charset="utf-8"><title>Redirecting...</title><script>var redirectTo = "/index.html" + location.search + location.hash;window.location.replace(redirectTo);</script></head><body>Redirecting...</body></html>' > build/404.html
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
